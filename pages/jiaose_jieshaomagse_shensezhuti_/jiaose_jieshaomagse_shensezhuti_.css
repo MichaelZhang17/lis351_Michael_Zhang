@@ -1,0 +1,252 @@
+.mt-41 {
+  margin-top: 2.56rem;
+}
+.mt-17 {
+  margin-top: 1.06rem;
+}
+.ml-43 {
+  margin-left: 2.69rem;
+}
+.ml-239 {
+  margin-left: 14.94rem;
+}
+.page {
+  background-color: #000000;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.header {
+  padding: 1rem 5rem;
+  background-color: #121212;
+  height: 4.5rem;
+}
+.group {
+  width: 41.07rem;
+}
+.group_2 {
+  width: 9.61rem;
+}
+.group_3 {
+  border-radius: 0.38rem;
+  width: 7.06rem;
+  height: 2.5rem;
+}
+.font {
+  font-size: 1.38rem;
+  font-family: Kalam;
+  font-weight: 700;
+  color: #ffffff;
+}
+.text {
+  line-height: 2.19rem;
+}
+.pos {
+  position: absolute;
+  left: 0.23rem;
+  right: 0;
+  top: 0.16rem;
+}
+.font_2 {
+  font-size: 1rem;
+  font-family: HarmonyOSSansSC;
+  line-height: 0.76rem;
+  color: #ffffff;
+}
+.text_2 {
+  margin-left: 1.25rem;
+}
+.text_3 {
+  margin-left: 2.06rem;
+}
+.text_4 {
+  margin-left: 1.94rem;
+}
+.text_5 {
+  margin-left: 2rem;
+}
+.text_6 {
+  margin-left: 2rem;
+}
+.image {
+  margin-right: 4rem;
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.group_4 {
+  overflow-y: auto;
+}
+.image_2 {
+  width: 100vw;
+  height: 31.875vw;
+}
+.section {
+  padding: 4.44rem 4rem 1.13rem;
+  background-color: #121212;
+}
+.group_5 {
+  padding-left: 1.13rem;
+  padding-right: 1rem;
+}
+.text_7 {
+  color: #ffffff;
+  font-size: 3rem;
+  font-family: HarmonyOSSansSC;
+  font-weight: 700;
+  line-height: 2.32rem;
+}
+.text-wrapper {
+  padding: 1.13rem 0;
+  filter: drop-shadow(0.25rem 0.25rem 0rem #000000);
+  background-color: #ffffff14;
+  border-radius: 0.25rem;
+  box-shadow: 0.25rem 0.25rem 0rem #000000;
+  width: 6rem;
+  height: 3.25rem;
+  border-left: solid 0.063rem #ffffffb3;
+  border-right: solid 0.063rem #ffffffb3;
+  border-top: solid 0.063rem #ffffffb3;
+  border-bottom: solid 0.063rem #ffffffb3;
+}
+.text_8 {
+  color: #000000;
+  font-size: 1.25rem;
+  font-family: HarmonyOSSansSC;
+  line-height: 0.93rem;
+}
+.grid {
+  height: 50rem;
+  display: grid;
+  grid-template-rows: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  row-gap: 0;
+  column-gap: 0;
+}
+.grid-item {
+  padding: 1.25rem 0.88rem;
+}
+.image_3 {
+  border-radius: 0.5rem;
+  width: 18.75rem;
+  height: 18.75rem;
+}
+.text-wrapper_2 {
+  padding: 0.5rem 0;
+  background-color: #ffffff14;
+  border-radius: 0.25rem;
+  height: 2.56rem;
+  border-left: solid 0.063rem #ffffffb3;
+  border-right: solid 0.063rem #ffffffb3;
+  border-top: solid 0.063rem #ffffffb3;
+  border-bottom: solid 0.063rem #ffffffb3;
+}
+.font_3 {
+  font-size: 1rem;
+  font-family: HarmonyOSSansSC;
+  line-height: 1.5rem;
+  color: #ffffff;
+}
+.text_9 {
+  width: 3.81rem;
+}
+.text_10 {
+  width: 7.44rem;
+}
+.text_11 {
+  width: 6.31rem;
+}
+.text_12 {
+  width: 7.06rem;
+}
+.text_13 {
+  width: 6.81rem;
+}
+.text_14 {
+  width: 5.5rem;
+}
+.section_2 {
+  padding: 5rem;
+  background-color: #121212;
+}
+.divider {
+  background-color: #ffffff0f;
+  height: 0.063rem;
+}
+.group_6 {
+  width: 11.36rem;
+}
+.group_7 {
+  padding: 0.25rem 0;
+  border-radius: 0.38rem;
+  width: 10rem;
+}
+.section_3 {
+  background-color: #00000000;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.text_15 {
+  line-height: 1.38rem;
+  width: 9.38rem;
+}
+.pos_2 {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.group_8 {
+  margin-right: 4rem;
+}
+.font_4 {
+  font-size: 0.88rem;
+  font-family: HarmonyOSSansSC;
+  line-height: 1.25rem;
+  color: #ffffff;
+}
+.text_16 {
+  width: 4.44rem;
+}
+.text_17 {
+  width: 9.94rem;
+}
+.text_18 {
+  width: 5.25rem;
+}
+.section_4 {
+  background-color: #00000000;
+  width: 1.13rem;
+  height: 1.25rem;
+}
+.image_4 {
+  width: 1.25rem;
+  height: 1rem;
+}
+.image_5 {
+  width: 1.31rem;
+  height: 1.13rem;
+}
+.section_5 {
+  background-color: #00000000;
+  width: 1.25rem;
+  height: 1.25rem;
+}
+.group_9 {
+  width: 43.44rem;
+}
+.text_19 {
+  width: 18.19rem;
+}
+.text_20 {
+  width: 5.38rem;
+}
+.text_21 {
+  margin-left: 1.5rem;
+  width: 6.06rem;
+}
+.text_22 {
+  margin-left: 2.13rem;
+  width: 6.19rem;
+}
